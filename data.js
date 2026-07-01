@@ -569,14 +569,14 @@ const lessonData = [
   ["！", "", "", ""],
 
     ["\n", "", "", ""], // 👈 出处
-    ["（", "zuǒ kuò hào", "left parenthesis", "tanda kurung kiri"],
+    ["（", "", "", ""],
     ["李丹崖", "lǐ dān yá", "Li Danyai (Author)", "Li Danyai (Penulis)"],
-    ["《", "zuǒ shū míng", "left book title mark", "tanda pengikat sastera kiri"],
+      ["《", "", "", ""],
     ["曼德拉的", "màn dé lā de", "Mandela's", "Tomato"],
     ["番茄", "fān qié", "Tomatoes", "Nelson Mandela"],
-    ["》", "yòu shū míng", "right book title mark", "tanda pengikat sastera kanan"],
+     ["》", "", "", ""],
    ["，", "", "", ""],
     ["有", "yǒu", "with", "ada"],
     ["改动", "gǎi dòng", "adaptations", "ubah suai"],
-    ["）", "yòu kuò hào", "right parenthesis", "tanda kurung kanan"]
+      ["）", "", "", ""],
 ];
