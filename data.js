@@ -317,7 +317,7 @@ const lessonData = [
     ["不怎么红润的", "bù zěn me hóng rùn de", "not so rosy red", "tomato yang tidak brapa merah menyala semata-mata punya"],
     ["番茄", "fān qié", "tomatoes", "buah tomato"],
     ["。", "", "", ""],
-    ["他一个也", "tā yí gè yě", "He even a single one", "Dia walau sebiji pun buah tomato itu langsung", ""],
+    ["他一个也", "tā yí gè yě", "He even a single one", "Dia walau sebiji pun buah tomato itu langsung"],
     ["舍不得吃", "shě bu dé chī", "reluctant to eat", "tidak tegar hati / tidak sanggup nak makan telan sendiri"],
     ["，", "", "", ""],
     ["都分给了", "dōu fēn gěi le", "all distributed to", "sebaliknya habis semuanya diserahkan dibahagikan kepada"],
