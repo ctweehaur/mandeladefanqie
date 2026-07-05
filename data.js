@@ -574,7 +574,7 @@ const lessonData = [
     ["开垦出", "kāi kěn chū", "cultivate out", "meneroka, mencangkul membajak melahirkan keluar mari sebuah"],
     ["一片", "yí piàn", "a stretch of", "sebidang pekarangan zon"], // 👈 中文数字“一片”不分开
     ["阳光明媚的", "yáng guāng míng mèi de", "sunny and splendid", "kawasan yang sarat dipenuhi limpahan cahaya matahari terang, indah gembira punya"],
-    ["伊甸园来", "yī diàn yuán lái", "Eden garden out mari", "Taman Syurga Firdaus (Taman Eden) jua akhirnya mari keluar"],
+    ["伊甸园来", "yī diàn yuán lái", "Eden garden", "Taman Syurga Firdaus (Taman Eden) jua akhirnya mari keluar"],
     ["！", "", "", ""],
 
     ["\n", "", "", ""], // 👈 出处
